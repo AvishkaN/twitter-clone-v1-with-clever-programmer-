@@ -1,0 +1,19 @@
+.sidebaroptions{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+};
+
+
+.sideBarIconTitle{
+    color:  red ;
+  }
+
+
+.car1{
+    color: red;
+};
+
+.car2{
+    color: red;
+};
